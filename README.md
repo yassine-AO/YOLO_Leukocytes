@@ -1,3 +1,5 @@
+# Advancing Hematology with AI: My Journey in the CytologIA Data Challenge
+
 In an era where artificial intelligence is transforming industries, the CytologIA Data Challenge, organized by Trustii.io in collaboration with the French Cellular Hematology Group (GFHC) and Algoscope, offered an incredible opportunity to contribute to medical AI research. This initiative is supported by the France 2030 plan and the Health Data Hub, underscoring its importance in advancing healthcare diagnostics. As a participant in this challenge, I embarked on a journey that was both educational and exciting, filled with challenges and breakthroughs.
 
 ### The Vision Behind the CytologIA Data Challenge
